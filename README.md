@@ -22,7 +22,8 @@ Code snippets are available for installing the Skin Cancer MNIST: HAM10000 datas
   Enter patient sex (male/female): fermale <br>
   Enter lesion location (e.g., back, scalp, face, etc.): lower extremity <br>
 
-2.Enter the path to the skin lesion image: /content/user input 1.jpg <br>
+2.Upload the "user input 1.jpg" file to Google Colab under the DermaVision GH 2025 repository, then execute Test Case 2.<br>
+  Enter the path to the skin lesion image: /content/user input 1.jpg <br>
   Enter patient age: 50 <br>
   Enter patient sex (male/female): male <br>
   Enter lesion location (e.g., back, scalp, face, etc.): back <br>
